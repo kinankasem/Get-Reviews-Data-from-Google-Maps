@@ -1,5 +1,5 @@
 # Get-Reviews-Data-from-Google-Maps
-This code can get all data aboue reviews (Review text, Date, Rating, Name of reviewer) and extract all of it in excel fileby using Python language.
+This code can get all data about reviews (Review text, Date, Rating, Name of reviewer) and extract all of it in excel file by using Python language.
 
 # Web Driver Download
 first you should install webdriver.exe for your browser, in code case we used Edge web driver. (you can download it from this url EdgeWebDriver 'https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH')
